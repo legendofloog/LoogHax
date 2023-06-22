@@ -22,9 +22,6 @@ BreakTargetTable: //makes a separate table that determines WTA for breaking so t
 BreakTargetEntry(SwordWType, AxeWType)
 BreakTargetEntry(AxeWType, LanceWType)
 BreakTargetEntry(LanceWType, SwordWType)
-BreakTargetEntry(Wind_WType, Thunder_WType)
-BreakTargetEntry(Thunder_WType, Fire_WType)
-BreakTargetEntry(Fire_WType, Wind_WType)
 BreakTargetTerminator
 
 ALIGN 4 
